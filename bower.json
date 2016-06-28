@@ -1,0 +1,24 @@
+{
+  "name": "iknsa-angular-1.5-course",
+  "homepage": "https://github.com/iknsa-formation/angularjs-1.5.x",
+  "authors": [
+    "Khalid Sookia <khalidsookia@gmail.com>"
+  ],
+  "description": "iKNSA AngularJS course",
+  "main": "",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.3",
+    "angular": "1.5"
+  }
+}
